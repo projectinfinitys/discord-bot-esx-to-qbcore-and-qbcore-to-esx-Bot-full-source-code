@@ -1,10 +1,10 @@
-# discord-bot-esx-to-qb-and-qb-to-esx
+# discord bot esx to QBCore and QBCore to esx
 ESX to QBCore free Discord Bot :- https://discord.gg/projectinfinity
 
-Free esx to qbcore :- Convert ESX files to QBcore
+Free esx to qbcore :- Convert ESX files to QBCore
 
 
-free qbcore to esx :- Convert QBcore files to ESX
+free qbcore to esx :- Convert QBCore files to ESX
 
 Join discord to use bot
 
