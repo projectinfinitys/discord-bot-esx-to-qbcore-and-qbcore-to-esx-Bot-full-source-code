@@ -1,6 +1,7 @@
-# discord bot esx to QBCore and QBCore to esx
+# discord bot esx to QBCore and QBCore to esx 25$
 ESX to QBCore Discord Bot :- https://discord.gg/R77mum4JYw
 
+Bot full source code
 
  esx to qbcore :- Convert ESX files to QBCore
 
