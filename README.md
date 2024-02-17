@@ -8,7 +8,7 @@ Bot full source code
 
 
 
- qbcore to esx :- Convert QBCore files to ESX
+ Qbcore to esx :- Convert QBCore files to ESX
 
 Join discord to buy bot
 
