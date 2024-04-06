@@ -12,6 +12,6 @@ Bot full source code
 
 Join discord to buy bot
 
-Preview :- https://www.youtube.com/watch?v=N71GCNlqsdo
+Preview :- [https://www.youtube.com/watch?v=N71GCNlqsdo](https://www.youtube.com/watch?v=OMz4mWS9GT0)
 
 Discord :- https://discord.gg/R77mum4JYw
